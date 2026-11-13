@@ -31,3 +31,4 @@ dwie_tabele$Numer = 1:nrow(dwie_tabele)
 write_xlsx(dwie_tabele, "C:/Users/kahan/Desktop/nowa.xlsx")
 
 # test
+# test2 
